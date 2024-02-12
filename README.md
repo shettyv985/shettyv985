@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Varun Shetty
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript
 - 📫 You can Contact me  here...https://www.linkedin.com/in/varun-shetty-333386230
 
 <!---
